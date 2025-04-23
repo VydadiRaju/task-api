@@ -1,0 +1,18 @@
+# Ignore log files and sensitive data
+*.log
+.env
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE/editor folders
+.vscode/
+.idea/
+
+# Ignore vendor or build folders
+vendor/
+node_modules/
+
+# Ignore archive files
+*.zip
