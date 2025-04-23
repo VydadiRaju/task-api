@@ -19,4 +19,8 @@ A mini PHP-based task manager API with CRUD operations and a simple HTML front-e
 - `tasks/add.php` - Add a new task
 - `tasks/update.php` - Update task title
 - `tasks/complete.php` - Mark task as completed
+<<<<<<< HEAD
 - `tasks/delete.php` - Delete a task
+=======
+- `tasks/delete.php` - Delete a task
+>>>>>>> 2761716755b3315029e17bd7536f08c643e594e6
